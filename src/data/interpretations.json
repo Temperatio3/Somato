@@ -1,0 +1,46 @@
+{
+  "zone1": {
+    "lien": "lien1",
+    "psych": "description psychologique 1"
+  },
+  "zone2": {
+    "lien": "lien2",
+    "psych": "description psychologique 2"
+  },
+  "POUMONS": {
+    "psych": "Lien symbolique avec le territoire, l’espace de vie, la tristesse, le deuil non exprimé."
+  },
+  "CŒUR": {
+    "psych": "Lien symbolique avec l’amour, la joie de vivre, les blessures affectives profondes."
+  },
+  "ESTOMAC": {
+    "psych": "Lien symbolique avec la digestion des événements, les soucis, les contrariétés ‘mal digérées’."
+  },
+  "FOIE": {
+    "psych": "Lien symbolique avec la colère, l’injustice, la gestion des frustrations et des projets."
+  },
+  "INTESTIN": {
+    "psych": "Lien symbolique avec l’assimilation et l’élimination, la capacité à ‘laisser aller’."
+  },
+  "REIN": {
+    "psych": "Lien symbolique avec la peur, l’insécurité, le territoire matériel et affectif."
+  },
+  "VESSIE": {
+    "psych": "Lien symbolique avec la peur, l’insécurité, le territoire matériel et affectif."
+  },
+  "UTÉRUS/PROSTATE": {
+    "psych": "Lien symbolique avec la fécondité, la création, la lignée, le féminin profond."
+  },
+  "Z F FRONTALE": {
+    "psych": "Occultation – tabou – oubli, dissimulation, histoire cachée, amnésie d’un choc. Frustration du ‘Soi’ et des désirs. Non reconnaissance de la place dans le nid familial."
+  },
+  "Z F ETHMOÏDE": {
+    "psych": "Interdit d’être, négation de soi, difficulté à se projeter, non-sens de l’existence. Je ne me sens pas de ce clan. Oubli, rejet de la culture, reniement transgénérationnel."
+  },
+  "Z F PARIÉTALE ANT": {
+    "psych": "Origine : réactivation d’une émotion en lien avec la mort, arrêt dans une étape de deuil. Conséquence : peurs et angoisses, idées fixes autour de la mort, difficulté de deuil."
+  },
+  "Z F PARIÉTALE POST": {
+    "psych": "Origine : réactivation d’une émotion en lien avec l’abandon, arrêt dans une étape de deuil de la relation. Conséquence : peurs et angoisses, idées fixes autour de l’abandon, je ne recevrai pas ce dont j’aurais eu besoin."
+  }
+}

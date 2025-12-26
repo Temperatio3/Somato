@@ -1,0 +1,262 @@
+{
+  "poyet": {
+    "columns": [
+      "Dates",
+      "Gd 8",
+      "Yintan g",
+      "CO 2 2 3",
+      "1 4 4 3",
+      "F3",
+      "Strain s",
+      "Pré t",
+      "Pos t",
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "C5",
+      "C6",
+      "C7",
+      "T1",
+      "ATM",
+      "Sacrum T",
+      "Sacrum Ysio",
+      "S.S.O.",
+      "S.S.E."
+    ],
+    "arrowColumns": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "rows": 10
+  },
+  "organes": {
+    "columns": [
+      "DATES",
+      "POUMONS",
+      "CŒUR",
+      "ESTOMAC",
+      "FOIE",
+      "INTESTIN",
+      "REIN",
+      "RATE",
+      "VESSIE",
+      "UTÉRUS/PROSTATE"
+    ],
+    "subColumns": [
+      "INTRINSÈQUE",
+      "YSIO"
+    ],
+    "rows": 10
+  },
+  "somato": {
+    "columns": [
+      "Dates",
+      "Monobloc",
+      "Z F BASI-OCC",
+      "Z F SOUS-OCC",
+      "Z F PARIÉTALE POST",
+      "Z F PARIÉTALE ANT",
+      "Z F FRONTALE",
+      "Z F DE LA FAUX",
+      "Z F ETHMOÏDE",
+      "Z F MAXILLAIRE",
+      "Z F PALATIN",
+      "lemniscate Ant/Post",
+      "lemniscate sagital"
+    ],
+    "rows": 10
+  },
+  "symbols": [
+    "/",
+    "Ysi",
+    "Intrinsèque",
+    "X",
+    "O",
+    "∆"
+  ],
+  "corrections": {
+    "Intrinsèque": "Correction Intrinsèque standard"
+  },
+  "sutures": {
+    "columns": [
+      "Dates",
+      "S. frontale pariétale",
+      "S. fronto-ethmoïde",
+      "S. frontal ethmoïde labyrinthe",
+      "S. frontal ethmoïde lame perpendiculaire",
+      "S. fronto-maxillaire",
+      "S. frontale grande aile",
+      "S. frontale sphénoïde petite aile",
+      "S. frontale zygomatique",
+      "S. frontal droit/frontal gauche",
+      "Incisure ethmoïdale de l’os frontal",
+      "S. fronto-ethmoïdale",
+      "S. labyrinthe frontal",
+      "S. lame perpendiculaire frontal",
+      "S. ethmoïde-maxillaire",
+      "S. ethmoïde-palatine",
+      "S. ethmoïde-vomer",
+      "S. ethmoïde-lacrymale",
+      "S. sagittale",
+      "S. lambdoïde",
+      "S. coronale",
+      "S. pariéto-pétreuse",
+      "S. pariéto-squameuse",
+      "S. maxillaire-frontal",
+      "S. maxillaire-lacrymal",
+      "S. maxillaire-ethmoïde",
+      "S. maxillaire-zygomatique",
+      "S. maxillaire-vomer",
+      "S. maxillaire-palatine",
+      "S. processus palatins DG",
+      "S. prémaxillaire/postmaxillaire",
+      "S. maxillaire basal os alvéolaires",
+      "Gomphose os alvéolaire-dent",
+      "Synchondrose sphéno-éthmoïdale (S.S.E.)",
+      "S. basisphénoïde-vomer",
+      "S. sphéno-palatine",
+      "S. sphénoïde petite aile-frontal",
+      "S. grande aile-frontal",
+      "S. ptérygo-palatine médiale",
+      "S. ptérygo-palatine latérale",
+      "S. ptérygo-maxillaire",
+      "S. grande aile-pariétal",
+      "S. grande aile-zygomatique",
+      "S. grande aile-temporal squameux",
+      "Synchondrose sphéno-occipitale",
+      "Synchondrose sphéno-éthmoïdale",
+      "Fissure sphéno-pétreuse",
+      "Synchondrose intrasphénoïdale",
+      "Synchondrose basisphénoïde D/G",
+      "S. basipostsphénoïde-grande aile",
+      "Synchondrose basisphénoïde-petite aile",
+      "Fissure orbitaire supérieure",
+      "Synchondrose occipital-sphénoïde (S.S.O.)",
+      "Synchondrose supraoccipital-temporal pétreux (O.M.)",
+      "Fissure basioccipital-temporal pétreux",
+      "Fissure exoccipital-temporal pétreux",
+      "Synchondrose basioccipital-exoccipital",
+      "Synchondrose exoccipital-supraoccipital",
+      "S. mendosale",
+      "S. cailles interpariétales DG"
+    ],
+    "groups": [
+      {
+        "name": "Frontal",
+        "columns": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "name": "Ethmoïde",
+        "columns": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "name": "Pariétal",
+        "columns": [
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "name": "Maxillaire",
+        "columns": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "name": "Sphénoïde",
+        "columns": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ]
+      },
+      {
+        "name": "Occipital",
+        "columns": [
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      }
+    ],
+    "rows": 10
+  },
+  "intraOsseuse": {
+    "columns": [
+      "Dates",
+      "A renseigner..."
+    ],
+    "rows": 10
+  },
+  "specifique": {
+    "columns": [
+      "Dates",
+      "Sang Figé",
+      "PPNE"
+    ],
+    "rows": 10
+  }
+}

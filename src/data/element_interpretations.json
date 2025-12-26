@@ -1,0 +1,517 @@
+{
+    "Gd 8": {
+        "Zone": "Grand 8 (Fusible de compensation)",
+        "Psychisme": "Compensation énergétique en vrille (axe vertical et antéro-postérieur). Incohérence entre les informations du crâne et l'écoute du bassin. Souvent associé à une attitude scoliotique, des problèmes d'occlusion dentaire ou une gêne globale du schéma corporel.",
+        "Lien Pied": ""
+    },
+    "Yintan g": {
+        "Zone": "Yin-trang (Fusible d'adaptation)",
+        "Psychisme": "Protège l'individu inadapté à une situation, un environnement ou une substance. Se manifeste par de la fatigue, une lassitude chronique et une difficulté à \"y voir clair\" (perte de relief visuel).",
+        "Lien Pied": ""
+    },
+    "CO 2 2 3": {
+        "Zone": "C0 2 2 3 (Fusible du surmenage)",
+        "Psychisme": "Indique que la personne est allée au-delà de ses limites physiques, professionnelles ou affectives. Épuisement des ressources de défense.",
+        "Lien Pied": ""
+    },
+    "1 4 4 3": {
+        "Zone": "1 4 4 3 (Fusible biomécanique)",
+        "Psychisme": "Symbolise une difficulté d'adaptation à une mobilité nouvelle ou fait suite à une manipulation physique hasardeuse/violente.",
+        "Lien Pied": ""
+    },
+    "F3": {
+        "Zone": "F3 (Fusible du doute)",
+        "Psychisme": "Lié à la perplexité et à une problématique d'inhibition de l'action. Difficulté à choisir un cap ou à agir.",
+        "Lien Pied": ""
+    },
+    "Strain s": {
+        "Zone": "Strains de la S.S.B.",
+        "Psychisme": "Glissements traumatiques créés par un choc physique direct ou un choc émotionnel brutal désaxant la structure.",
+        "Lien Pied": ""
+    },
+    "Pré t": {
+        "Zone": "Pré-sphénoïde",
+        "Psychisme": "Écoute focalisée sur la partie antérieure de l'hypophyse (système hormonal et projection).",
+        "Lien Pied": ""
+    },
+    "Pos t": {
+        "Zone": "Post-sphénoïde",
+        "Psychisme": "Écoute focalisée sur la partie postérieure de l'hypophyse (gestion émotionnelle profonde).",
+        "Lien Pied": ""
+    },
+    "C1": {
+        "Zone": "C1 - Chaîne Pariétale Postérieure",
+        "Psychisme": "Liée à l'Identité (\"Ce que je suis\"), au sentiment d'abandon et aux étapes du deuil. Harmonise C1, T2, T10 et S3. Symbolise le deuil de la relation ou d'une partie de soi.",
+        "Lien Pied": "Calcaneus + 1er Cunéiforme"
+    },
+    "C2": {
+        "Zone": "C2 - Chaîne Pariétale Antérieure",
+        "Psychisme": "Associée à la peur de la mort ou au vécu d'un danger de mort imminente. Harmonise C2, T3, T11 et S4. Idées fixes autour de la finitude.",
+        "Lien Pied": "Talus + 1er Cunéiforme"
+    },
+    "C3": {
+        "Zone": "C3 - Chaîne Frontale",
+        "Psychisme": "Notion d'Occultation. Incapacité à \"voir\" un problème ou occultation de la souffrance par mécanisme de survie. Patient dans le brouillard. Harmonise C3, T4, T12 et S4.",
+        "Lien Pied": "2ème os Cunéiforme"
+    },
+    "C4": {
+        "Zone": "C4 - Chaîne Ethmoïdale",
+        "Psychisme": "Représente l'Essence, le sens profond ou la raison d'être de l'existence. Harmonise C4, T5, L1 et S5. Frustration dans l'expression du Soi.",
+        "Lien Pied": "Os Naviculaire"
+    },
+    "C5": {
+        "Zone": "C5 - Chaîne Maxillaire",
+        "Psychisme": "Liée à la Violence (physique ou psychique). Mémoire de harcèlement, d'abus, de non-reconnaissance ou conflit de limites. Harmonise C5, T6, L2 et S5.",
+        "Lien Pied": "3ème os Métatarsien"
+    },
+    "C6": {
+        "Zone": "C6 - Chaîne Temporale",
+        "Psychisme": "Symbolise la Communication et l'image de soi. Difficulté à entendre ou à se faire entendre. Harmonise C6, T7, L3 et S2.",
+        "Lien Pied": "4ème os Métatarsien (lien Rein)"
+    },
+    "C7": {
+        "Zone": "C7 - Chaîne Zygomatique",
+        "Psychisme": "Expression du sentiment de Justice ou d'Injustice. Souffrance du bourreau ou de la victime. Harmonise C7, T8, L4 et S2.",
+        "Lien Pied": "3ème os Cunéiforme"
+    },
+    "T1": {
+        "Zone": "T1 - Chaîne Palatine",
+        "Psychisme": "Souffrance de Séparation ou difficulté de communication. Harmonise T1, T9, L5 et S3. Lien avec l'indignité.",
+        "Lien Pied": "2ème os Métatarsien (base)"
+    },
+    "ATM": {
+        "Zone": "Articulation Temporo-Mandibulaire",
+        "Psychisme": "Déséquilibre du crâne et du schéma corporel. Émotionnel : syndrome abandonnique traumatique inscrit durablement. Lien avec l'incapacité à \"mordre\" la vie.",
+        "Lien Pied": "1er Méta / 1ère Phalange Prox"
+    },
+    "Sacrum T": {
+        "Zone": "Sacrum Traumatique / Torsion",
+        "Psychisme": "Torsion G/D : Place dans la famille (sociale/génitrice). Torsion G/G : Renaissance après résolution. D/D : Survie psychologique.",
+        "Lien Pied": "Calcaneus (harmonisation)"
+    },
+    "Sacrum Ysio": {
+        "Zone": "Sacrum Physiologique",
+        "Psychisme": "Harmonie du MRP (Mouvement Respiratoire Primaire). Flexion/Extension physiologique.",
+        "Lien Pied": "Calcaneus (motilité)"
+    },
+    "S.S.O.": {
+        "Zone": "Synchondrose Sphéno-Occipitale",
+        "Psychisme": "Souffrance existentielle in utero. Manque d'élan vital, profonde insécurité. Individu \"coincé\" entre deux pôles ou deux désirs contradictoires.",
+        "Lien Pied": "Talus / Calcaneus"
+    },
+    "S.S.E.": {
+        "Zone": "Synchondrose Sphéno-Ethmoïdale",
+        "Psychisme": "Absence de projet-sens à la conception (-9 mois). Difficulté à donner du sens à sa vie, déni de soi ou sentiment de ne pas avoir droit au bonheur.",
+        "Lien Pied": "Talus / Naviculaire"
+    },
+    "POUMONS": {
+        "Zone": "Poumons",
+        "Psychisme": "Liés à la tristesse profonde et au deuil. Appartiennent à la Chaîne Pariétale Postérieure (Identité). Difficulté à prendre sa place / son air.",
+        "Lien Pied": "Chaîne C1"
+    },
+    "CŒUR": {
+        "Zone": "Cœur",
+        "Psychisme": "Souffrance affective, blessure du cœur. Appartient à la Chaîne Ethmoïdale (Essence). Difficulté à aimer ou recevoir l'amour.",
+        "Lien Pied": "Chaîne C4"
+    },
+    "ESTOMAC": {
+        "Zone": "Estomac",
+        "Psychisme": "Difficulté à \"digérer\" une situation. Lié à l'Identité (C1) et à la peur de la mort (C2).",
+        "Lien Pied": "Chaînes C1 et C2"
+    },
+    "FOIE": {
+        "Zone": "Foie",
+        "Psychisme": "Colère contenue ou occultée. Appartient à la Chaîne Frontale. Souffrance liée au manque ou à l'injustice.",
+        "Lien Pied": "Chaîne C3"
+    },
+    "INTESTIN": {
+        "Zone": "Intestin / Côlon",
+        "Psychisme": "Lié aux mémoires de violence (C5), d'injustice (C7) ou de séparation (T1). Difficulté à lâcher ce qui est toxique.",
+        "Lien Pied": "Chaînes C5, C7, T1"
+    },
+    "REIN": {
+        "Zone": "Rein",
+        "Psychisme": "Siège des peurs profondes. Lié à la violence/limites (C5) et à la communication/image de soi (C6).",
+        "Lien Pied": "Chaînes C5 et C6"
+    },
+    "RATE": {
+        "Zone": "Rate",
+        "Psychisme": "Inquiétudes, ruminations. Appartient à la Chaîne Frontale (Occultation).",
+        "Lien Pied": "Chaîne C3"
+    },
+    "VESSIE": {
+        "Zone": "Vessie",
+        "Psychisme": "Territoire et peurs ancestrales. Appartient à la Chaîne Ethmoïdale (Essence).",
+        "Lien Pied": "Chaîne C4"
+    },
+    "UTÉRUS/PROSTATE": {
+        "Zone": "Utérus / Prostate",
+        "Psychisme": "Relation à la procréation et aux racines. Appartient à la Chaîne Ethmoïdale (Essence).",
+        "Lien Pied": "Chaîne C4"
+    },
+    "Monobloc": {
+        "Zone": "Monobloc Crânien",
+        "Psychisme": "Indice d'une grande rigidité psychique ou d'un choc émotionnel massif ayant \"figé\" tout le système de défense.",
+        "Lien Pied": ""
+    },
+    "Z F BASI-OCC": {
+        "Zone": "Z.F. Basi-Occipitale",
+        "Psychisme": "Mémoire d'histoire familiale transgénérationnelle avec mission de réparation. Incapacité à vivre pour soi, poids du passé.",
+        "Lien Pied": "Os Naviculaire"
+    },
+    "Z F SOUS-OCC": {
+        "Zone": "Z.F. Sous-Occipitale (Figée)",
+        "Psychisme": "Réactivation d'une émotion liée à une séparation primale, angoisse de séparation massive. Difficultés d'engagement.",
+        "Lien Pied": "1ère colonne du pied (Naviculaire/Cuné/Méta)"
+    },
+    "Z F PARIÉTALE POST": {
+        "Zone": "Z.F. Pariétale Postérieure (Figée)",
+        "Psychisme": "Réactivation d'une émotion liée à l'abandon. Arrêt dans une étape de deuil de la relation. Peur de manquer émotionnellement.",
+        "Lien Pied": "Calcaneus + 1er Cunéiforme"
+    },
+    "Z F PARIÉTALE ANT": {
+        "Zone": "Z.F. Pariétale Antérieure (Figée)",
+        "Psychisme": "Réactivation d'une émotion en lien avec la mort. Idées fixes autour de la finitude, angoisses existentielles.",
+        "Lien Pied": "Talus + 1er Cunéiforme"
+    },
+    "Z F FRONTALE": {
+        "Zone": "Z.F. Frontale (Figée)",
+        "Psychisme": "Occultation de la souffrance pour survivre. Patient avançant dans le brouillard, incapable de se projeter ou de voir la vérité.",
+        "Lien Pied": "2ème os Cunéiforme"
+    },
+    "Z F DE LA FAUX": {
+        "Zone": "Z.F. de la Faux",
+        "Psychisme": "Symbolise l'axe de l'être, la verticalité. Conflit entre les aspirations (Ciel) et les besoins matériels (Terre).",
+        "Lien Pied": "Ligne Sagittale"
+    },
+    "Z F ETHMOÏDE": {
+        "Zone": "Z.F. Ethmoïdale",
+        "Psychisme": "Carence de regard sur l'être en devenir. Frustration d'un besoin primitif. Mal-être lié à l'absence d'accueil parental.",
+        "Lien Pied": "Os Naviculaire / 2ème Phalange Prox"
+    },
+    "Z F MAXILLAIRE": {
+        "Zone": "Z.F. Maxillaire (Figée)",
+        "Psychisme": "Mémoire de violence, harcèlement ou abus. Conflit de limites. Sentiment de non-considération, sacrifice aux autres.",
+        "Lien Pied": "3ème os Métatarsien"
+    },
+    "Z F PALATIN": {
+        "Zone": "Z.F. Palatine",
+        "Psychisme": "Traumatisme violent d'indignité associé à un abus de pouvoir. Souffrance de séparation ou rupture de racine.",
+        "Lien Pied": "Base du 2ème os Métatarsien"
+    },
+    "lemniscate Ant/Post": {
+        "Zone": "Lemniscate Antéro-Postérieur",
+        "Psychisme": "Équilibre du flux énergétique entre le passé (arrière) et le futur (avant). Circulation des émotions.",
+        "Lien Pied": ""
+    },
+    "lemniscate sagital": {
+        "Zone": "Lemniscate Sagittal",
+        "Psychisme": "Équilibre latéral, centrage sur son axe de vie. Harmonisation Droit/Gauche.",
+        "Lien Pied": ""
+    },
+    "S. frontale pariétale": {
+        "Zone": "Suture Coronale",
+        "Psychisme": "Amnésie d'un choc et des émotions associées. Témoin/implication dans un événement lié à la souffrance et à la mort d'autrui.",
+        "Lien Pied": "2ème Cuné / 3ème Cuné"
+    },
+    "S. fronto-ethmoïde": {
+        "Zone": "Suture Fronto-Ethmoïdale",
+        "Psychisme": "Frustration dans l'expression du Soi. Difficulté à manifester ses désirs profonds.",
+        "Lien Pied": "2ème Cuné / Naviculaire"
+    },
+    "S. frontal ethmoïde labyrinthe": {
+        "Zone": "Suture Fronto-Ethmoïde (Labyrinthe)",
+        "Psychisme": "Frustration d'un besoin/désir primitif entraînant une difficulté à exprimer son Être.",
+        "Lien Pied": "2ème Cuné / Naviculaire"
+    },
+    "S. frontal ethmoïde lame perpendiculaire": {
+        "Zone": "Suture Fronto-Ethmoïde (Lame Perpend.)",
+        "Psychisme": "Mémoire de non-reconnaissance de l'enfant après sa conception. Traumatisme violent d'identification. Lutte pour exister.",
+        "Lien Pied": "2ème Phalange Prox (Base/Corps)"
+    },
+    "S. fronto-maxillaire": {
+        "Zone": "Suture Fronto-Maxillaire",
+        "Psychisme": "Occultation de la souffrance liée à une violence. Lutte pour exister dans un environnement hostile.",
+        "Lien Pied": "Naviculaire / 3ème Cuné"
+    },
+    "S. frontale grande aile": {
+        "Zone": "Suture Fronto-Sphénoïdale (Grande Aile)",
+        "Psychisme": "Capacité à voir ou non un problème (Conséquence du non-regard : \"Je ne vois pas car je n'ai pas été vu\").",
+        "Lien Pied": "2ème Cuné / 2ème Méta"
+    },
+    "S. frontale sphénoïde petite aile": {
+        "Zone": "Suture Fronto-Sphénoïdale (Petite Aile)",
+        "Psychisme": "Capacité à voir ou ne pas voir un problème. Filtre dissociant de la réalité.",
+        "Lien Pied": "2ème Méta / 2ème Phalange Prox"
+    },
+    "S. frontale zygomatique": {
+        "Zone": "Suture Fronto-Zygomatique",
+        "Psychisme": "Témoin ou implication dans la souffrance d'autrui. Relation Bourreau-Victime émotionnelle.",
+        "Lien Pied": "2ème Cuné / 3ème Cuné"
+    },
+    "S. frontal droit/frontal gauche": {
+        "Zone": "Suture Métopique",
+        "Psychisme": "Difficulté à trouver sa place dans le nid familial. Recherche de tuteurs. Enfant-objet du couple parental.",
+        "Lien Pied": "1er Cuné / 2ème Cuné"
+    },
+    "Incisure ethmoïdale de l’os frontal": {
+        "Zone": "Incisure Ethmoïdale",
+        "Psychisme": "Conception traumatique, absence de place dans le nid. Mécanisme de lutte pour exister.",
+        "Lien Pied": "1er+3ème Cuné / 2ème Méta"
+    },
+    "S. fronto-ethmoïdale": {
+        "Zone": "Suture Fronto-Ethmoïdale",
+        "Psychisme": "Frustration de l'Être dans son expression primale.",
+        "Lien Pied": "2ème Cuné / Naviculaire"
+    },
+    "S. labyrinthe frontal": {
+        "Zone": "Suture Labyrinthe-Frontal",
+        "Psychisme": "Déficit d'expression de ses besoins fondamentaux.",
+        "Lien Pied": "2ème Cuné / Naviculaire"
+    },
+    "S. lame perpendiculaire frontal": {
+        "Zone": "Suture Lame Perpend.-Frontal",
+        "Psychisme": "Identification impossible ou violente. Mémoire de non-désir.",
+        "Lien Pied": "2ème Phalange Prox"
+    },
+    "S. ethmoïde-maxillaire": {
+        "Zone": "Suture Ethmoïde-Maxillaire",
+        "Psychisme": "Transgression : l'enfant s'est imposé à la vie. Violence associée à une grossesse non désirée.",
+        "Lien Pied": "Base 3ème Méta / Base 4ème Méta"
+    },
+    "S. ethmoïde-palatine": {
+        "Zone": "Suture Ethmoïde-Palatine",
+        "Psychisme": "Violence d'indignité touchant l'essence même de l'individu.",
+        "Lien Pied": "Base 2ème Méta / Naviculaire"
+    },
+    "S. ethmoïde-vomer": {
+        "Zone": "Suture Ethmoïde-Vomer",
+        "Psychisme": "Perte de cap profond. Difficulté à exprimer l'originalité de sa personnalité.",
+        "Lien Pied": "2ème Méta / 2ème Phalange Prox"
+    },
+    "S. ethmoïde-lacrymale": {
+        "Zone": "Suture Ethmoïde-Lacrymale",
+        "Psychisme": "Inhibition de l'expression des émotions profondes (tristesse, colère).",
+        "Lien Pied": "3ème Méta / 3ème Phalange Prox"
+    },
+    "S. sagittale": {
+        "Zone": "Suture Sagittale (Pariétal D/G)",
+        "Psychisme": "Projection sur sa propre mort. Vécu de danger de mort imminente. Angoisse de finitude.",
+        "Lien Pied": "Naviculaire / Cuboïde"
+    },
+    "S. lambdoïde": {
+        "Zone": "Suture Lambdoïde (Pariétal/Occipital)",
+        "Psychisme": "Vécu de Trahison. Rupture d'un contrat tacite (familial/affectif). Entraîne une forte culpabilité.",
+        "Lien Pied": "Calcaneus / Naviculaire"
+    },
+    "S. coronale": {
+        "Zone": "Suture Coronale",
+        "Psychisme": "Témoin/implication dans la souffrance et la mort d'autrui. Blocage de projection.",
+        "Lien Pied": "2ème Cuné / 3ème Cuné"
+    },
+    "S. pariéto-pétreuse": {
+        "Zone": "Suture Pariéto-Pétreuse",
+        "Psychisme": "Symbolise la Fidélité extrême ou la Loyauté (parfois déloyauté subie). Relation aux ancêtres.",
+        "Lien Pied": "3ème Cuné / Cuboïde"
+    },
+    "S. pariéto-squameuse": {
+        "Zone": "Suture Pariéto-Squameuse",
+        "Psychisme": "Difficulté d'identité par carence ou idéalisation du parent. Autonomie subie trop tôt.",
+        "Lien Pied": "3ème Cuné / Cuboïde"
+    },
+    "S. maxillaire-frontal": {
+        "Zone": "Suture Maxillaire-Frontal",
+        "Psychisme": "Mémoire de violence occultée (harcèlement, abus). Sentiment de non-considération.",
+        "Lien Pied": "Naviculaire / 3ème Cuné"
+    },
+    "S. maxillaire-lacrymal": {
+        "Zone": "Suture Maxillaire-Lacrymal",
+        "Psychisme": "Violence due à l'interdiction d'exprimer des émotions négatives.",
+        "Lien Pied": "3ème Méta / 3ème Phalange Prox"
+    },
+    "S. maxillaire-ethmoïde": {
+        "Zone": "Suture Maxillaire-Ethmoïde",
+        "Psychisme": "Grossesse/Enfant non désiré. Violence liée au projet sens.",
+        "Lien Pied": "Base 3ème Méta / 4ème Méta"
+    },
+    "S. maxillaire-zygomatique": {
+        "Zone": "Suture Maxillaire-Zygomatique",
+        "Psychisme": "Affirme un acte de violence, d'abus ou d'injustice en tant que victime.",
+        "Lien Pied": "3ème Méta / 3ème Phalange Prox"
+    },
+    "S. maxillaire-vomer": {
+        "Zone": "Suture Maxillaire-Vomer",
+        "Psychisme": "Traumatisme violent entraînant une perte de cap et une difficulté d'expression de soi.",
+        "Lien Pied": "2ème Méta / 2ème Phalange Prox"
+    },
+    "S. maxillaire-palatine": {
+        "Zone": "Suture Maxillaire-Palatine",
+        "Psychisme": "Traumatisme violent d'indignité associé à un abus de pouvoir.",
+        "Lien Pied": "Base 3ème Méta / Base 2ème Méta"
+    },
+    "S. processus palatins DG": {
+        "Zone": "Suture Palatine Médiane",
+        "Psychisme": "Conflit Yin/Yang profond. Problème de latéralisation et d'équilibre identitaire.",
+        "Lien Pied": "2ème Méta / 3ème Cuné"
+    },
+    "S. prémaxillaire/postmaxillaire": {
+        "Zone": "Suture Incisive",
+        "Psychisme": "Difficulté d'affirmation de soi dans la construction de l'ego.",
+        "Lien Pied": "Corps/Tête 3ème Méta"
+    },
+    "S. maxillaire basal os alvéolaires": {
+        "Zone": "Maxillaire Alvéolaire",
+        "Psychisme": "Affirmation de soi contrariée, difficulté à \"mordre\" dans ses projets.",
+        "Lien Pied": "Corps/Tête 3ème Méta"
+    },
+    "Gomphose os alvéolaire-dent": {
+        "Zone": "Gomphose Dentaire",
+        "Psychisme": "Profonde dévalorisation de l'Identité. Atteinte des fondations de l'être.",
+        "Lien Pied": "3ème Phalange Distale"
+    },
+    "Synchondrose sphéno-éthmoïdale (S.S.E.)": {
+        "Zone": "S.S.E. (Synch. Sphéno-Ethmoïde)",
+        "Psychisme": "Absence de projet-sens. Difficulté à donner du sens à la vie ou droit au bonheur. Pb de nidation crânienne.",
+        "Lien Pied": "Talus / Naviculaire"
+    },
+    "S. basisphénoïde-vomer": {
+        "Zone": "Suture Basisphénoïde-Vomer",
+        "Psychisme": "Perte de repères spatio-temporels suite à un choc (Tsunami émotionnel). Perte d'idéal.",
+        "Lien Pied": "2ème Méta / 2ème Phalange Prox"
+    },
+    "S. sphéno-palatine": {
+        "Zone": "Suture Sphéno-Palatine",
+        "Psychisme": "Perte de la dignité humaine. Rupture de racine et de bases existentielles.",
+        "Lien Pied": "Talus / Tibia"
+    },
+    "S. sphénoïde petite aile-frontal": {
+        "Zone": "Suture Petite Aile-Frontal",
+        "Psychisme": "Non-regard parental entraînant une incapacité à voir ses propres problèmes. Filtre sur la réalité.",
+        "Lien Pied": "2ème Méta / 2ème Phalange Prox"
+    },
+    "S. grande aile-frontal": {
+        "Zone": "Suture Grande Aile-Frontal",
+        "Psychisme": "Capacité à voir ou ne pas voir un problème. Vécu de non-reconnaissance visuelle.",
+        "Lien Pied": "2ème Méta / 2ème Cuné"
+    },
+    "S. ptérygo-palatine médiale": {
+        "Zone": "Suture Ptérygo-Palatine Médiale",
+        "Psychisme": "Choc dans la dignité, humiliation. Désir de vengeance inhibé, agissement par contrainte ou obligation.",
+        "Lien Pied": "2ème Méta / 2ème Phalange Prox"
+    },
+    "S. ptérygo-palatine latérale": {
+        "Zone": "Suture Ptérygo-Palatine Latérale",
+        "Psychisme": "Humiliation, besoin de se protéger. Agir par devoir au lieu de plaisir.",
+        "Lien Pied": "2ème Méta / 2ème Cuné"
+    },
+    "S. ptérygo-maxillaire": {
+        "Zone": "Suture Ptérygo-Maxillaire",
+        "Psychisme": "Frustration intense. Traumatisme lié à un danger potentiel d'abus perçu intuitivement.",
+        "Lien Pied": "2ème Méta / 3ème Méta"
+    },
+    "S. grande aile-pariétal": {
+        "Zone": "Suture Ptéro-Pariétale",
+        "Psychisme": "Urgence d'adaptation permanente. Stress de survie.",
+        "Lien Pied": "Cuboïde / 3ème Cuné"
+    },
+    "S. grande aile-zygomatique": {
+        "Zone": "Suture Ptéro-Zygomatique",
+        "Psychisme": "Bourreau inconscient qui refuse de voir la souffrance de sa victime. Culpabilité refoulée.",
+        "Lien Pied": "2ème Méta / 3ème Cuné"
+    },
+    "S. grande aile-temporal squameux": {
+        "Zone": "Suture Ptéro-Squameuse",
+        "Psychisme": "Difficulté d'identification, quête perpétuelle d'un référent externe.",
+        "Lien Pied": "3ème Cuné / 4ème Méta"
+    },
+    "Synchondrose sphéno-occipitale": {
+        "Zone": "S.S.O.",
+        "Psychisme": "Souffrance existentielle in utero. Manque d'élan vital. Insécurité profonde.",
+        "Lien Pied": "Talus / Calcaneus"
+    },
+    "Synchondrose sphéno-éthmoïdale": {
+        "Zone": "S.S.E.",
+        "Psychisme": "Déni de soi, sentiment de ne pas avoir droit au bonheur.",
+        "Lien Pied": "Talus / Naviculaire"
+    },
+    "Fissure sphéno-pétreuse": {
+        "Zone": "Fissure Sphéno-Pétreuse",
+        "Psychisme": "Souffrance en période de nidation. Difficulté d'accueil dans l'incarnation. Contact corporel difficile.",
+        "Lien Pied": "Talus / Cuboïde"
+    },
+    "Synchondrose intrasphénoïdale": {
+        "Zone": "S.I.S. (Synch. Intrasphénoïdale)",
+        "Psychisme": "Carence de regard sur l'être en devenir (20-28j). Non-désir de grossesse. Malaise identitaire.",
+        "Lien Pied": "Corps/Tête du Talus"
+    },
+    "Synchondrose basisphénoïde D/G": {
+        "Zone": "Synch. Basisphénoïde D/G",
+        "Psychisme": "Carence du regard parental. Défaut de structure de la base psychique.",
+        "Lien Pied": "Talus (D/G)"
+    },
+    "S. basipostsphénoïde-grande aile": {
+        "Zone": "Suture Basi-Grande Aile",
+        "Psychisme": "Symbolise le sacrifice du parent pour l'enfant.",
+        "Lien Pied": "Corps/Tête 2ème Méta"
+    },
+    "Synchondrose basisphénoïde-petite aile": {
+        "Zone": "Synch. Basi-Petite Aile",
+        "Psychisme": "Sacrifice de l'enfant qui vient réparer l'histoire parentale. Inversion des rôles.",
+        "Lien Pied": "Base/Corps 2ème Phalange Prox"
+    },
+    "Fissure orbitaire supérieure": {
+        "Zone": "Fissure Orbitaire Sup.",
+        "Psychisme": "Incapacité à voir un problème. Conséquence d'un non-regard initial.",
+        "Lien Pied": "2ème Méta / 2ème Phalange Prox"
+    },
+    "Synchondrose occipital-sphénoïde (S.S.O.)": {
+        "Zone": "S.S.O.",
+        "Psychisme": "Souffrance existentielle profonde. Manque de bases sécurisantes.",
+        "Lien Pied": "Calcaneus / Talus"
+    },
+    "Synchondrose supraoccipital-temporal pétreux (O.M.)": {
+        "Zone": "O.M. (Occipito-Mastoïdienne)",
+        "Psychisme": "Choc lié à un défaut de communication in utero. Difficultés Yin/Yang.",
+        "Lien Pied": "Calcaneus / Cuboïde"
+    },
+    "Fissure basioccipital-temporal pétreux": {
+        "Zone": "P.B. (Petro-Basilaire)",
+        "Psychisme": "Souffrance et traumatisme de séparation précoce.",
+        "Lien Pied": "Naviculaire / 1er Cuné"
+    },
+    "Fissure exoccipital-temporal pétreux": {
+        "Zone": "P.J. (Petro-Jugulaire)",
+        "Psychisme": "Souffrance et traumatisme de séparation. Angoisse de perte.",
+        "Lien Pied": "1er Cuné / 1er Méta"
+    },
+    "Synchondrose basioccipital-exoccipital": {
+        "Zone": "S.I.O. Antérieure",
+        "Psychisme": "Souffrance de séparation vécue/ossifiée entre 6 et 10 ans.",
+        "Lien Pied": "1er Méta (Corps/Tête)"
+    },
+    "Synchondrose exoccipital-supraoccipital": {
+        "Zone": "S.I.O. Postérieure",
+        "Psychisme": "Souffrance de séparation vécue/ossifiée entre 2 et 4 ans.",
+        "Lien Pied": "1er Méta (Corps/Base)"
+    },
+    "S. mendosale": {
+        "Zone": "Suture Mendosale",
+        "Psychisme": "Fracture entre principe masculin et féminin par le regard jugeant d'un parent sur l'autre.",
+        "Lien Pied": "1ère Phalange Prox (Corps/Base)"
+    },
+    "S. cailles interpariétales DG": {
+        "Zone": "Suture Interpariétale (Occipitale)",
+        "Psychisme": "Résistance massive au changement. Incapacité à lâcher-prise.",
+        "Lien Pied": "Calcaneus (Corps/Tubérosité)"
+    },
+    "Sang Figé": {
+        "Zone": "Sang Figé",
+        "Psychisme": "Mémoire de trauma physique ou émotionnel violent et cristallisé, empêchant la circulation vitale.",
+        "Lien Pied": ""
+    },
+    "PPNE": {
+        "Zone": "Point de Passage Non Exprimé",
+        "Psychisme": "Blocage d'un potentiel créateur ou d'une émotion qui n'a pu traverser l'être. Suspension du flux.",
+        "Lien Pied": ""
+    }
+}
